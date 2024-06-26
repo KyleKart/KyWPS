@@ -2,7 +2,7 @@
   <info title="My KyWM Website" description="A website." icon="path/to/image.jpg"/>
   <main>
     <txt.h1>Welcome to My Website</txt.h1>
-    <txt.p>This is a text paragraph.</txt.p>
-    <lnk.p href="kywps://somesite.kywm">This is a link paragraph.</lnk.p>
+    <txt.p id="p1">This is a text paragraph.</txt.p>
+    <lnk.p id="p2" href="kywps://somesite.kywm">This is a link paragraph.</lnk.p>
   </main>
 </kywm>
